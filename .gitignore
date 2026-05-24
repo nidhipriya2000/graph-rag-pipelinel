@@ -1,0 +1,19 @@
+# Generated data
+data/chroma_db/
+data/knowledge_graph.json
+data/knowledge_graph.png
+data/evaluation_report.json
+data/ragas_scores.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
